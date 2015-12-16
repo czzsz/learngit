@@ -7,3 +7,5 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 
 add merge.
+
+long long ago I am testing the git,haha
